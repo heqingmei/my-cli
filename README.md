@@ -36,3 +36,13 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 2. 新增sass配置
 
 
+## 2018/6/6 winsurfro 
+
+将页面最大宽度改成750px，避免PC端访问时平铺整个屏幕的情况。
+
+
+## 2018/6/8 winsurfro 
+
+SSR
+
+

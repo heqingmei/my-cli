@@ -1,7 +1,7 @@
 {
-  "name": "惠生活",
+  "name": "my-cli",
   "version": "1.0.0",
-  "description": "惠生活",
+  "description": "my-cli",
   "author": "heqingmei <heqingmei@hzdracom.com>",
   "private": true,
   "scripts": {

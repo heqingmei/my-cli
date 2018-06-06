@@ -1,6 +1,10 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <ul>
+        <li><router-link to="/">首页</router-link></li>
+        <li><router-link to="/about">关于我们</router-link></li>
+    </ul>
     <router-view/>
   </div>
 </template>
